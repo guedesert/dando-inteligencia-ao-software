@@ -12,7 +12,7 @@
 
 ## 📋 Projeto
 
-Missão Prática com o objetivo de realizar um processo de Análise de Sentimento utilizando Processamento de Linguagem Natural (PLN) aplicado a textos obtidos de tweets por meio do Google Colab, utilizando bibliotecas como Spacy e SpacyTextBlob para identificar a polaridade dos sentimentos expressos nas mensagens **`Nível 4: Dando Inteligência ao Software`** do **`Mundo 5`** do curso de **`Desenvolvimento Full Stack`** da **`Estácio`**, do semestre de **`2024.4`**.
+Missão Prática com o objetivo de realizar um processo de Análise de Sentimento utilizando Processamento de Linguagem Natural (PLN) aplicado a textos obtidos de tweets por meio do Google Colab, utilizando bibliotecas como Spacy e SpacyTextBlob para identificar a polaridade dos sentimentos expressos nas mensagens apresentada no **`Nível 4: Dando Inteligência ao Software`** do **`Mundo 5`** do curso de **`Desenvolvimento Full Stack`** da **`Estácio`**, do semestre de **`2024.4`**.
 
 Projeto elaborado de acordo com as diretrizes especificadas para a Missão Prática, que podem ser conferidas [**`clicando aqui`**](https://sway.cloud.microsoft/s/4I0FaBWMTOk9e6Dg/embed).
 
